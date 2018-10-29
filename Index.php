@@ -17,10 +17,6 @@ a {
     text-decoration: none;
     border-radius: 5px;
 }
-a:hover {
-    color: red;
-    background: #eff;
-}
 </style>
 </head>
 <body>
