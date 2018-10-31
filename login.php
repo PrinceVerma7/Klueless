@@ -1,6 +1,5 @@
-<?php include("connection.php");?>
-<?php include("recaptchalib.php");?>
 <?php include("config.php");?>
+<?php include("recaptchalib.php");?>
 <?php
 $msg = null;
 $errorpass=null;
